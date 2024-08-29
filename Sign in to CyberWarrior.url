@@ -1,0 +1,2 @@
+[InternetShortcut]
+URL=https://sso.cyberwarrior.com/auth/realms/cwa/protocol/openid-connect/auth?client_id=portal-client-prod&redirect_uri=https%3A%2F%2Fonline.cyberwarrior.com%2Fauthentication%2Flogin-callback&response_type=code&scope=openid%20profile%20openid%20profile&state=45011730942d4ab1b8e5b6d6a342c94e&code_challenge=P3_0bb1btHtWub-3T1JWrmxo3JbFIwj2Pukf4Aj4mrQ&code_challenge_method=S256&response_mode=query
